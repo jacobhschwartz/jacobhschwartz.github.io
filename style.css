@@ -13,3 +13,11 @@ section#main {
 h1 {
 	font-weight: normal;
 }
+
+h2 {
+	font-weight: normal;
+}
+
+ul {
+	list-style: none;
+}
