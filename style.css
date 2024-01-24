@@ -4,8 +4,10 @@ body {
 	font-size:12pt
 }
 
-#container {
-max-width:60em
+section#main {
+	float:left;
+	max-width:40em;
+	padding-left:3em
 }
 
 h1 {
