@@ -10,23 +10,4 @@ max-width:60em
 
 h1 {
 	font-weight: normal;
-	margin-left: 290px;
-	margin-top: 70px;
-	margin-bottom: 0px;
-}
-
-div {
-	margin-left: 320px;
-	max-width: 34em;
-}
-
-div#pic {
-	float: left;
-	margin-left: 160px;
-}
-
-p { 
-    margin-top: 10px;
-	margin-left: 40px;
-	margin-bottom: 10px;
 }
