@@ -29,3 +29,7 @@ ul {
 li {
 	margin: 10px 0;
 }
+
+a:link, a:visited {text-decoration: none; color: grey}
+
+a:hover, a:active {  text-decoration: underline; color: grey}
